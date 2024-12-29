@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\radia\\OneDrive\\Desktop\\AesSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE70FBE-98FF-4FCF-A777-A1C66E323F6F}|AesSample\\AesSample.csproj|c:\\users\\radia\\onedrive\\desktop\\aessample\\aessample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE70FBE-98FF-4FCF-A777-A1C66E323F6F}|AesSample\\AesSample.csproj|solutionrelative:aessample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\radia\\OneDrive\\Desktop\\AesSample\\AesSample\\Program.cs",
+              "RelativeDocumentMoniker": "AesSample\\Program.cs",
+              "ToolTip": "C:\\Users\\radia\\OneDrive\\Desktop\\AesSample\\AesSample\\Program.cs",
+              "RelativeToolTip": "AesSample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T14:57:42.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
